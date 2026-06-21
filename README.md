@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="https://herokuapp.com+;" alt="Typing SVG" />
+  <!-- Servidor atualizado para demolab para corrigir a quebra do herokuapp -->
+  <img src="https://demolab.com+;" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -20,10 +21,9 @@ const gabrielCastro = {
 };
 ```
 
-## 🛸 Tecnologias & Hard Skills
+## 🛸 Tecnologias 
 
 <div align="center">
-  <!-- O skillicons puxa os ícones direto de uma API estável e estilizada -->
   <img src="https://skillicons.dev" alt="Minhas Tecnologias" />
 </div>
 
@@ -32,7 +32,8 @@ const gabrielCastro = {
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://demolab.com" alt="Streak"/>
+  <!-- Provedor estável com parâmetros simplificados para limpar o cache -->
+  <img src="https://vercel.app" alt="Estatísticas do GitHub de Gabriel" height="150" />
 </p>
 
 <div align="center">
@@ -47,6 +48,7 @@ const gabrielCastro = {
 
 <div align="left">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://shields.io" alt="LinkedIn" />
   </a>
 </div>
+
