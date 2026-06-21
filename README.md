@@ -1,6 +1,3 @@
-# README.md
-
-````md
 <h1 align="center">
   <img src="https://readme-typing-svg.pkasila.net/?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Olá!+Eu+sou+Gabriel+Castro;Desenvolvedor+Full+Stack;Professor+e+Educador+Maker;Java+%7C+Spring+Boot+%7C+.NET+%7C+Angular" alt="Typing SVG" />
 </h1>
@@ -110,5 +107,4 @@ const gabrielCastro = {
 </a>
 
 </div>
-```
 
