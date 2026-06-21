@@ -1,56 +1,114 @@
+# README.md
+
+````md
 <h1 align="center">
-  <!-- Typing SVG configurado em servidor estável -->
-  <img src="https://readme-typing-svg.pkasila.net/?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=850&lines=Desenvolvedor+Full+Stack+%7C+.NET+%2B+Angular;Focado+na+constru%C3%A7%C3%A3o+de+APIs+robustas+e+interfaces+modernas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.pkasila.net/?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Olá!+Eu+sou+Gabriel+Castro;Desenvolvedor+Full+Stack;Professor+e+Educador+Maker;Java+%7C+Spring+Boot+%7C+.NET+%7C+Angular" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <!-- Contador de Visualizações e Badge de Seguidores Oficiais -->
-  <img src="https://komarev.com/ghpvc/?username=GabGC0608&color=blueviolet&style=flat-square" alt="Visualizações do Perfil"/>
-  <img src="https://img.shields.io/github/followers/GabGC0608?label=Seguidores&style=flat-square&color=blueviolet" alt="Seguidores" />
+  <img src="https://komarev.com/ghpvc/?username=GabGC0608&color=blueviolet&style=for-the-badge&label=VISITANTES" />
+  <img src="https://img.shields.io/github/followers/GabGC0608?label=Seguidores&style=for-the-badge&color=blue&labelColor=1a1b27" />
 </div>
 
 <br>
 
-## 🪐 Sobre Mim 
+## 🪐 Sobre Mim
 
 ```typescript
 const gabrielCastro = {
-   localizacao: "Diamantina, MG - Brasil 🇧🇷",
-   funcao: "Educador Maker & Desenvolvedor Full Stack",
-   especialidades: ["STEAM", "Robótica", "Full Stack", "Redes & CI/CD"],
-   foco_atual: ["Construção de APIs robustas", "Interfaces modernas e fluidas"],
-   tecnologias_principais: [".NET", "C#", "Angular", "TypeScript"]
+   localizacao: "Diamantina - MG 🇧🇷",
+   profissao: "Professor e Desenvolvedor Full Stack",
+   atuacao: "Laboratório Maker",
+   interesses: [
+      "Desenvolvimento Web",
+      "Spring Boot",
+      ".NET",
+      "Angular",
+      "Inteligência Artificial",
+      "STEAM",
+      "Robótica"
+   ],
+   estudando: [
+      "Arquitetura de Software",
+      "Machine Learning",
+      "DevOps",
+      "CI/CD"
+   ]
 };
-```
+````
 
-## 🛸 Tecnologias 
+## 🛸 Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev" alt="Minhas Tecnologias" />
+
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,angular,ts,js,python,php,mysql,postgres,docker,git,github,vscode,linux" />
+
 </div>
 
-<br>
+## 🏫 Educação e Maker
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STEAM-Educação-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Robótica-Arduino-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Impressão_3D-Maker-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Corte_a_Laser-Fabricacao_Digital-red?style=for-the-badge" />
+
+</div>
 
 ## 📊 Estatísticas
 
 <p align="center">
-  <!-- Provedor estável com parâmetros simplificados para limpar o cache -->
-  <img src="https://vercel.app" alt="Estatísticas do GitHub de Gabriel" height="150" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=GabGC0608&show_icons=true&theme=github_dark&hide_border=true"
+    height="170"
+  />
+
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabGC0608&layout=compact&theme=github_dark&hide_border=true"
+ height="170"
+/>
+
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=GabGC0608&theme=github-dark-blue&hide_border=true"
+  />
 </p>
 
 <div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="github contribution grid snake animation" src="https://githubusercontent.com">
-</picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/GabGC0608/GabGC0608/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+       srcset="https://raw.githubusercontent.com/GabGC0608/GabGC0608/output/github-contribution-grid-snake.svg">
+
+<img alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/GabGC0608/GabGC0608/output/github-contribution-grid-snake.svg"> </picture>
+
 </div>
 
-## 🤝 Conecte-se Comigo 
+## 🚀 Projetos de Interesse
+
+* Sistemas Web com Spring Boot
+* APIs REST
+* Inteligência Artificial
+* Processamento de Linguagem Natural
+* Banco de Dados
+* Educação Maker
+* Robótica Educacional
+
+## 🤝 Conecte-se Comigo
 
 <div align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
+
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </div>
+```
 
