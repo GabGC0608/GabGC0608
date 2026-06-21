@@ -17,23 +17,18 @@
 
 const gabrielCastro = {
    localizacao: "Diamantina - MG 🇧🇷",
-   profissao: "Professor e Desenvolvedor Full Stack",
+   profissao: "Desenvolvedor Full Stack" e educador Maker,
    atuacao: "Laboratório Maker",
    interesses: [
       "Desenvolvimento Web",
       "Spring Boot",
-      ".NET",
       "Angular",
+      "NextJS
       "Inteligência Artificial",
       "STEAM",
-      "Robótica"
-   ],
-   estudando: [
-      "Arquitetura de Software",
-      "Machine Learning",
-      "DevOps",
-      "CI/CD"
-   ]
+      "Robótica",
+      "Analise de dados",
+      "Business Inteligence(BI)"
 };
 
 ```
@@ -128,7 +123,7 @@ const gabrielCastro = {
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/GabGC0608/GabGC0608/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/PedroHenriqueBRO/GabGC0608/output/github-contribution-grid-snake.svg">
+          srcset="https://raw.githubusercontent.com/GabGC0608/output/github-contribution-grid-snake.svg">
 
           
 
