@@ -46,7 +46,7 @@ const gabrielCastro = {
 
 ### 🛠️ Linguagens
 
-<img src="https://skillicons.dev/icons?i=java,cs,python,php,js,ts" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts" />
 
 </td>
 </tr>
@@ -56,7 +56,7 @@ const gabrielCastro = {
 
 ### 🚀 Frameworks
 
-<img src="https://skillicons.dev/icons?i=spring,angular,dotnet" />
+<img src="https://skillicons.dev/icons?i=spring,angular" />
 
 </td>
 </tr>
@@ -84,9 +84,6 @@ const gabrielCastro = {
 <tr>
 <td align="center">
 
-### 💻 Ferramentas
-
-<img src="https://skillicons.dev/icons?i=vscode,idea" />
 
 </td>
 </tr>
