@@ -40,11 +40,58 @@ const gabrielCastro = {
 
 ## 🛸 Tecnologias
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring boot,angular,ts,js,python,mysql,postgres,docker,git,github,linux" />
+### 🛠️ Linguagens
 
-</div>
+<img src="https://skillicons.dev/icons?i=java,cs,python,php,js,ts" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🚀 Frameworks
+
+<img src="https://skillicons.dev/icons?i=spring,angular,dotnet" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🗄️ Bancos de Dados
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ⚙️ DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 💻 Ferramentas
+
+<img src="https://skillicons.dev/icons?i=vscode,idea" />
+
+</td>
+</tr>
+</table>
+
 
 ## 🏫 Educação e Maker
 
