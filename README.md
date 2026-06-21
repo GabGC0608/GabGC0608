@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=CAFF52&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+o+Gabriel+;Desenvolvedor+Full+Stack+;Entusiasta+de;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=CAFF52&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+o+Gabriel+;Desenvolvedor+Full+Stack" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 const gabrielCastro = {
    localizacao: "Diamantina - MG 🇧🇷",
-   profissao: "Desenvolvedor Full Stack" e educador Maker,
+   profissao: "Desenvolvedor Full Stack e educador Maker",
    atuacao: "Laboratório Maker",
    interesses: [
       "Desenvolvimento Web",
@@ -80,9 +80,13 @@ const gabrielCastro = {
 <tr>
 <td align="center">
 
+### 📊  Analise de Dados
+
+<img src="https://skillicons.dev/icons?i=pandas,powerbi" />
 
 </td>
 </tr>
+
 </table>
 
 
