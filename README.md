@@ -42,7 +42,7 @@ const gabrielCastro = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,angular,ts,js,python,php,mysql,postgres,docker,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=java,spring boot,angular,ts,js,python,mysql,postgres,docker,git,github,linux, mongodb" />
 
 </div>
 
@@ -84,9 +84,6 @@ const gabrielCastro = {
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/GabGC0608/GabGC0608/output/github-contribution-grid-snake-dark.svg">
 
-<source media="(prefers-color-scheme: light)"
-       srcset="https://raw.githubusercontent.com/GabGC0608/GabGC0608/output/github-contribution-grid-snake.svg">
-
 <img alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/GabGC0608/GabGC0608/output/github-contribution-grid-snake.svg"> </picture>
 
@@ -106,7 +103,7 @@ const gabrielCastro = {
 
 <div align="left">
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/gabriel-guimarães-de-castro-75bb72227" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
