@@ -21,9 +21,10 @@ const gabrielCastro = {
    atuacao: "Laboratório Maker",
    interesses: [
       "Desenvolvimento Web",
+      "FastApi",
       "Spring Boot",
       "Angular",
-      "NextJS
+      "NextJS",
       "Inteligência Artificial",
       "STEAM",
       "Robótica",
@@ -121,7 +122,7 @@ const gabrielCastro = {
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/GabGC0608/GabGC0608/output/github-contribution-grid-snake-dark.svg">
+          srcset="https://raw.githubusercontent.com/GabGC0608/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
           srcset="https://raw.githubusercontent.com/GabGC0608/output/github-contribution-grid-snake.svg">
 
