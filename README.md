@@ -1,4 +1,4 @@
-<!-- Título Animado com Efeito de Digitação -->
+<!-- Título Animado Estável -->
 <p align="center">
   <img src="https://herokuapp.com" alt="Typing SVG" />
 </p>
@@ -11,6 +11,7 @@
 
 ### 🐍 O Jogo da Cobrinha das Contribuições
 <p align="center">
+  <!-- Link absoluto corrigido para puxar da branch de saída gerada pela Action -->
   <img alt="GitHub Snake Animation" src="https://githubusercontent.com" />
 </p>
 
@@ -45,8 +46,8 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
+  <!-- Alternativa robusta e funcional ao github-readme-stats -->
   <img src="https://vercel.app" alt="Estatísticas do GitHub de Gabriel" height="150" />
-  <img src="https://vercel.app" alt="Linguagens mais usadas por Gabriel" height="150" />
 </p>
 
 ---
@@ -57,4 +58,5 @@
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
 </p>
+
 
