@@ -1,11 +1,12 @@
 <h1 align="center">
-  <!-- Servidor atualizado para demolab para corrigir a quebra do herokuapp -->
-  <img src="https://demolab.com+;" alt="Typing SVG" />
+  <!-- Typing SVG configurado em servidor estável -->
+  <img src="https://readme-typing-svg.pkasila.net/?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=850&lines=Desenvolvedor+Full+Stack+%7C+.NET+%2B+Angular;Focado+na+constru%C3%A7%C3%A3o+de+APIs+robustas+e+interfaces+modernas" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com" alt="Visualizações do Perfil"/>
-  <img src="https://shields.io" alt="Seguidores" />
+  <!-- Contador de Visualizações e Badge de Seguidores Oficiais -->
+  <img src="https://komarev.com/ghpvc/?username=GabGC0608&color=blueviolet&style=flat-square" alt="Visualizações do Perfil"/>
+  <img src="https://img.shields.io/github/followers/GabGC0608?label=Seguidores&style=flat-square&color=blueviolet" alt="Seguidores" />
 </div>
 
 <br>
@@ -14,8 +15,9 @@
 
 ```typescript
 const gabrielCastro = {
-   localização: "Brasil 🇧🇷",
-   função: "Desenvolvedor Full Stack",
+   localizacao: "Diamantina, MG - Brasil 🇧🇷",
+   funcao: "Educador Maker & Desenvolvedor Full Stack",
+   especialidades: ["STEAM", "Robótica", "Full Stack", "Redes & CI/CD"],
    foco_atual: ["Construção de APIs robustas", "Interfaces modernas e fluidas"],
    tecnologias_principais: [".NET", "C#", "Angular", "TypeScript"]
 };
