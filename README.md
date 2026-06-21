@@ -9,9 +9,12 @@
 
 <br>
 
+<br clear="right"/>
+
 ## 🪐 Sobre Mim
 
 ```typescript
+
 const gabrielCastro = {
    localizacao: "Diamantina - MG 🇧🇷",
    profissao: "Professor e Desenvolvedor Full Stack",
@@ -32,7 +35,8 @@ const gabrielCastro = {
       "CI/CD"
    ]
 };
-````
+
+```
 
 ## 🛸 Tecnologias
 
