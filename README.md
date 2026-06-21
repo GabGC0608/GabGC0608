@@ -74,7 +74,7 @@ const gabrielCastro = {
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=GabGC0608&theme=github-dark-blue&hide_border=true"
+    src="https://streak-stats.demolab.com?user=GabGC0608&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Streak"/>
   />
 </p>
 
@@ -83,6 +83,10 @@ const gabrielCastro = {
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/GabGC0608/GabGC0608/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/PedroHenriqueBRO/GabGC0608/output/github-contribution-grid-snake.svg">
+
+          
 
 <img alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/GabGC0608/GabGC0608/output/github-contribution-grid-snake.svg"> </picture>
