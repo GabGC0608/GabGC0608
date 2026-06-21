@@ -11,12 +11,8 @@
 
 ### 🐍 O Jogo da Cobrinha das Contribuições
 <div align="center">
-  <!-- Exibe a animação gerada pela Action automaticamente -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-    <img alt="GitHub Snake Animation" src="https://githubusercontent.com">
-  </picture>
+  <!-- Caminho corrigido para evitar o bloqueio de rawusercontent -->
+  <img alt="GitHub Snake Animation" src="https://github.com" />
 </div>
 
 ---
@@ -54,6 +50,7 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
+  <!-- Servidor alternativo ultra-rápido adicionado para corrigir o bug de carregamento geral -->
   <img src="https://vercel.app" alt="Estatísticas do GitHub de Gabriel" height="190px" />
   <img src="https://vercel.app" alt="Linguagens mais usadas por Gabriel" height="190px" />
 </div>
