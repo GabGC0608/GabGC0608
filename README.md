@@ -42,7 +42,7 @@ const gabrielCastro = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring boot,angular,ts,js,python,mysql,postgres,docker,git,github,linux, mongodb" />
+<img src="https://skillicons.dev/icons?i=java,spring boot,angular,ts,js,python,mysql,postgres,docker,git,github,linux" />
 
 </div>
 
