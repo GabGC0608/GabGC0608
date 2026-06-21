@@ -114,7 +114,7 @@ const gabrielCastro = {
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=GabGC0608&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Streak"/>
+    src="https://streak-stats.demolab.com?user=GabGC0608&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Streak"
   />
 </p>
 
