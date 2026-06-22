@@ -108,12 +108,13 @@ const gabrielCastro = {
     src="https://github-readme-stats.vercel.app/api?username=GabGC0608&show_icons=true&theme=github_dark&hide_border=true"
     height="170"
   />
+</p>
 
+<p align="center">
 <img
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabGC0608&layout=compact&theme=github_dark&hide_border=true"
  height="170"
 />
-
 </p>
 
 <p align="center">
