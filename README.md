@@ -103,20 +103,14 @@ const gabrielCastro = {
 
 ## 📊 Estatísticas
 
-<table align="center">
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=GabGC0608&show_icons=true&theme=tokyonight&hide_border=true"/>
-</td>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabGC0608&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabGC0608&layout=compact&theme=tokyonight&hide_border=true"/>
-</td>
-</tr>
-</table>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabGC0608&layout=compact&theme=tokyonight&hide_border=true&hide=html,css"/>
+</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GabGC0608&theme=tokyonight&hide_border=true&border_radius=50&card_width=1000" />
+  <img src="https://streak-stats.demolab.com?user=GabGC0608&theme=tokyonight&hide_border=true&border_radius=50&card_width=1000"/>
 </p>
 
 <div align="center">
