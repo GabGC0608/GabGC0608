@@ -105,21 +105,19 @@ const gabrielCastro = {
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=GabGC0608&show_icons=true&theme=github_dark&hide_border=true"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=GabGC0608&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
+    height="180"
+  />
+  
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabGC0608&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+    height="180"
   />
 </p>
 
 <p align="center">
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabGC0608&layout=compact&theme=github_dark&hide_border=true"
- height="170"
-/>
-</p>
-
-<p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=GabGC0608&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Streak"
+    src="https://streak-stats.demolab.com?user=GabGC0608&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
   />
 </p>
 
