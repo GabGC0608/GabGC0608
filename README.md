@@ -105,19 +105,20 @@ const gabrielCastro = {
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=GabGC0608&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
-    height="180"
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=GabGC0608&show_icons=true&bg_color=0D1117&title_color=4FA3FF&text_color=C9D1D9&icon_color=4FA3FF&border_color=30363D"
   />
-  
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabGC0608&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
-    height="180"
+    width="37%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabGC0608&layout=compact&bg_color=0D1117&title_color=4FA3FF&text_color=C9D1D9&border_color=30363D"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=GabGC0608&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
+    width="87%"
+    src="https://streak-stats.demolab.com?user=GabGC0608&theme=github-dark-blue&hide_border=false&border_radius=10"
   />
 </p>
 
