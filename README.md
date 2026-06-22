@@ -107,7 +107,7 @@ const gabrielCastro = {
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=GabGC0608&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=GabGC0608&&layout=compact&theme=tokyonight&hide_border=true" />
 
 </td>
 <td>
