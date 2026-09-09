@@ -15,7 +15,7 @@
 
 ```typescript
 
-const gabrielCastro = {
+const Gabriel_Castro = {
    localizacao: "Diamantina - MG 🇧🇷",
    profissao: "Desenvolvedor Full Stack e educador Maker",
    atuacao: "Laboratório Maker",
