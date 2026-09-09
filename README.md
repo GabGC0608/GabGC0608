@@ -52,7 +52,7 @@ const Gabriel_Castro = {
 
 ### 🚀 Frameworks
 
-<img src="https://skillicons.dev/icons?i=spring,angular,nextjs" />
+<img src="https://skillicons.dev/icons?i=spring,angular,nextjs,django,fastapi" />
 
 </td>
 </tr>
