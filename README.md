@@ -77,15 +77,6 @@ const gabrielCastro = {
 </td>
 </tr>
 
-<tr>
-<td align="center">
-
-### 📊  Analise de Dados
-
-<img src="https://skillicons.dev/icons?i=pandas,powerbi" />
-
-</td>
-</tr>
 
 </table>
 
